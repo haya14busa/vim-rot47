@@ -52,4 +52,3 @@ let &cpo = s:save_cpo
 unlet s:save_cpo
 " __END__
 " vim: expandtab softtabstop=2 shiftwidth=2 foldmethod=marker
-
